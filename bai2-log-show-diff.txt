@@ -1,3 +1,3 @@
 1. git log
-2. git show idCommit -> xem thay đổi đối vs file trong commit đó
+2. git show idCommit -> xem commit đó đã thay đổi gì đối với file
 3. git diff -> xem thay đổi trong các file đã bị modifiled (nếu chạy sau khi đã git add thì ko có tác dụng)   ấn Q để thoát git diff
