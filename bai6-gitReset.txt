@@ -1,4 +1,14 @@
 Dùng git reset để hủy commit 
-//git reset --soft <to_commit>  xóa 1 commit và quay về trạng thái ngay trước khi thực hiện commit đó
+//git reset --soft <id_commit>
+//git reset --mixed <id_commit>
+//git reset --hard <id_comit>
+
+
+//git reset --soft <to_commit> 
+xóa 1 commit và quay về trạng thái ngay trước khi thực hiện commit đó (luc nay file da duoc add, co mau xanh)
+
 //git reset --mixed <to_commit>
+giong --soft nhung quay ve trang thai file chua duoc add, co mau do
+
 //git reset --hard <to_commit>
+giong --soft va --mixed nhung quay ve han trang thai "nothing to commit" (tuc la ve khi vua thuc hien xong commit truoc commit nay)  
