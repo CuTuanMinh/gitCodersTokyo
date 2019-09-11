@@ -1,4 +1,4 @@
 Dùng git reset để hủy commit 
-//git reset --soft <to_commit>
+//git reset --soft <to_commit>  xóa 1 commit và quay về trạng thái ngay trước khi thực hiện commit đó
 //git reset --mixed <to_commit>
 //git reset --hard <to_commit>
