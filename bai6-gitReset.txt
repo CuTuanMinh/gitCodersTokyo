@@ -12,3 +12,9 @@ giong --soft nhung quay ve trang thai file chua duoc add, co mau do
 
 //git reset --hard <to_commit>
 giong --soft va --mixed nhung quay ve han trang thai "nothing to commit" (tuc la ve khi vua thuc hien xong commit truoc commit nay)  
+
+
+
+*Khac nhau giua git reset va git revert:
+-Dung git reset xoa commit nao thi cac commit dien ra sau no cung deu mat di
+-Dung git revert sua 1 commit thi cac commit dien ra sau no khong thay doi
