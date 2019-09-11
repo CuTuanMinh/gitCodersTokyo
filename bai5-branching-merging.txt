@@ -1,6 +1,8 @@
-git checkout -b <branch>
-git checkout <branch>
-git merge
+//git checkout -b <branch>
+//git checkout <branch>
+//git merge
 
 
 file được commit ở nhánh nào chỉ xuất hiện ở nhánh đấy thôi
+
+//git branch -D <branch> (delete a branch)
