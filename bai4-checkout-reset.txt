@@ -1,0 +1,11 @@
+git checkout
+git reset
+
+1. file đang ở trạng thái modified(đỏ)
+-> git checkout -- <file>
+sẽ biến file trở về trạng thái trước khi thay đổi
+
+
+2. file đang ở trạng thái xanh (vừa đc add) 
+-> git reset HEAD <file> 
+sẽ biến file từ xanh về đỏ (từ staging area về working directory)
