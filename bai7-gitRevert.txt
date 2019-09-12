@@ -1,4 +1,0 @@
-Su dung git revert de tao 1 commit dao nguoc lai nhung thay doi cua 1 commit trong qua khu
-
-//git revert <commit>
-git revert tao ra 1 commit(commit nay cung tro thanh commit moi nhat, tuc la dc HEAD tro vao) dao nguoc lai so vs commit muon revert  

@@ -1,0 +1,6 @@
+Để test Pull Request offline (trên máy mình):
+
+-Tải code về máy:  git fetch origin <name_branch>
+-Switch sang nhánh vừa fetch về: git checkout <name_branch>
+-Kiểm tra, chạy thử, nếu ok -> merge Pull Request trên github
+ 
